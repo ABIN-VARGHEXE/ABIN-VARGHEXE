@@ -1,67 +1,107 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<br>
-<a href="https://www.linkedin.com/in/falgunisarkar">
-  <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-  <a href="mailto:falgunisarkar526@gmail.com">
-  <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/lostgirlvintage">
-  <img align="center" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/lostgirlvintage_">
-  <img align="center" alt="Falguni @Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.hackerrank.com/lostgirljourney">
-  <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.codechef.com/users/falgunisarkar">
-  <img align="center" alt="Falguni @CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://dev.to/lostgirljourney">
-  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Falguni @DEV Profile" width="22px">
-</a>
-</h1>
-
-<p align="center">
-  <em>
-    This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
-    A budding <b>Full-Stack Developer</b> <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Abin Varghese</h1>
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/abinvarghese0/">
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/linkedin-2752135-2284952.png?f=webp&w=29">
+  </a>
+  
+  <a href="https://www.instagram.com/abin_varghese._/">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-1868978-1583142.png?f=webp&w=29">
+  </a>
 </p>
 
-<img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
+<h3 align="center">A passionate fullstack developer and a graphics designer from India</h3>
+<h3 align="center">Currently doing my Bachelor's in Engineering, Computer Science (To be graduated in 2027)</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=ABIN-VARGHEXE alt=ABIN-VARGHEXE/></p>
 
-> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 
-- <img src="https://media.giphy.com/media/j1sGG7gbue5o2gS31X/giphy.gif" width="30px">&nbsp;Pronouns: ***She/Her*** or ***CoderGirl***😉
-- <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">&nbsp;I’m currently working on Competitive Programming...
-- <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> and <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />&nbsp;! 
-- <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp;I’m looking to collaborate in an Open - Source Project `(newbie)` 🤝...
-- <img src="https://media.giphy.com/media/1AgViXhq0ZzOZyYfHV/giphy.gif" width="30px">&nbsp;I’m looking for help with Cyber Security 😭!
-- <img src="https://media.giphy.com/media/lleGybkEAdmbVE8cKt/giphy.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court!
-- <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: I've ***13 Reasons Why***▶️&nbsp;to live **Happy** & *Money* is a one of them...
+<img width="50%" align="right" alt="Github Image" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/Pixilart%20-%20Live%20on.gif" />
 
-<hr>
-<p align="center">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
-<img src="https://github-readme-stats.vercel.app/api?username=lostgirljourney&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lostgirljourney&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages">
+
+- 🔭 I’m currently working on **Incial**
+- 🌱 I’m currently learning ... **Django and React Native**
+- 💬 Ask me about ... **Web Develpoment and UI/UX**
+- 😄 Employement ... **Open for intern opportunities**
+- ⚡ Fun fact ... **Editing**❤
+- 📫 How to reach me **abinvarghese092005@gmail.com**
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=webp" alt=python width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+</p>
+
+<h4>Skills and Tools: </h4>
+<p align="left">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/django.png" alt=django width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/figma.png" alt=figma width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(8).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/idpEx9OuCE_1716131627212.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(2).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(3).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(4).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(5).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(6).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(7).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(9).png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://github.com/ABIN-VARGHEXE/ABIN-VARGHEXE/blob/main/pngwing.com%20(10).png" alt=github width="60" height="60"/>
+ 
+  
+ 
+</p>
+
+<h4>Desktop Environment: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
 <hr>
+
+<p align="center">
+	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=ABIN-VARGHEXE&show_icons=true alt=ABIN-VARGHEXE /> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ABIN-VARGHEXE&show_icons=true&layout=compact" alt="Most Used Languages">
+</p>
+
+### My Portfolio 👀 -
+<hr>
+<p align="center">
+  <h3 align="center" >
+    <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="70px">
+    <a align="center" href="https://www.linkedin.com/in/abinvarghese0/" target="_blank"> -   Portfolio 👦   - </a>
+    <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="70px">
+  </h3>
+<hr>
+
+
 
 <p align="center"> 
-  <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/><br>
 </p>
 
-<!-- can't stop myself from editing🤷... -->
+<p align="center">
+<a href=https://www.linkedin.com/in/abinvarghese0/ target="blank"><img align="center"  src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" alt="linkedin" height="40" width="40" /></a>
+<a href=https://x.com/ABIN_VARGHESE_2 target="blank"><img align="center" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v2.png" alt="twitterx--v2" height="40" width="40" /></a>
+<a href="mailto:abinvarghese092005@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/gmail-new.png" alt="gmail-new" height="40" width="40" /></a>
+<a href=https://www.instagram.com/abin_varghese._/ target="blank"><img align="center" src="https://img.icons8.com/glyph-neue/64/FFFFFF/instagram-new--v1.png" alt="instagram-new--v1" height="40" width="40" /></a>
+</p>
 
-⭐️ From **Falguni Sarkar** ([@lostgirljourney](https://github.com/lostgirljourney))
+
+
+
