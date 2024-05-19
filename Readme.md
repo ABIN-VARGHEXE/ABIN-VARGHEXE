@@ -84,7 +84,7 @@
 <p align="center">
   <h3 align="center" >
     <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="70px">
-    <a align="center" href="https://www.linkedin.com/in/abinvarghese0/" target="_blank"> -   Portfolio 👦   - </a>
+    <a align="center" href="https://abin-varghese.vercel.app/" target="_blank"> -   Portfolio 👦   - </a>
     <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="70px">
   </h3>
 <hr>
