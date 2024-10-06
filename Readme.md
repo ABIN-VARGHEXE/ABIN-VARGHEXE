@@ -22,7 +22,7 @@
 - 💬 Ask me about ... **Web Develpoment and UI/UX**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Editing**❤
-- 📫 How to reach me **abinvarghese092005@gmail.com**
+- 📫 How to reach me **toabinvarghese@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
